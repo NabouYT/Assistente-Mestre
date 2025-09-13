@@ -1,0 +1,12 @@
+2025/09/12-15:11:10.576 1504 Reusing MANIFEST d:\marcelo\Marcelo Programas e site\Ful copia\playwright_profile\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/12-15:11:10.577 1504 Recovering log #97
+2025/09/12-15:11:10.585 1504 Reusing old log d:\marcelo\Marcelo Programas e site\Ful copia\playwright_profile\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000097.log 
+2025/09/12-15:11:58.419 1504 Level-0 table #102: started
+2025/09/12-15:11:58.574 1504 Level-0 table #102: 1472487 bytes OK
+2025/09/12-15:11:58.622 1504 Delete type=0 #97
+2025/09/12-15:12:07.614 1504 Compacting 1@1 + 1@2 files
+2025/09/12-15:12:07.678 1504 Generated table #103@1: 1419 keys, 73422 bytes
+2025/09/12-15:12:07.678 1504 Compacted 1@1 + 1@2 files => 73422 bytes
+2025/09/12-15:12:07.712 1504 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/12-15:12:07.712 1504 Delete type=2 #99
+2025/09/12-15:12:07.712 1504 Delete type=2 #102

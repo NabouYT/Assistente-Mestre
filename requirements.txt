@@ -1,0 +1,13 @@
+customtkinter
+Pillow
+keyboard
+psutil
+pygetwindow
+opencv-python
+torch
+ultralytics
+playwright
+pyttsx3
+SpeechRecognition
+PyAudio
+thefuzz

@@ -1,0 +1,37 @@
+
+*****************************************************************
+   Thursday  ###  2025/09/11, ## 15:29:03
+*****************************************************************
+
+15:29:03:Download redirectUrl http://patch.global.dj.x-legend.com.tw/patch/dj_global.txt .
+15:29:03:use default url = http://d2kdnm5q4g725u.cloudfront.net/NEWSYSTEM.250062/ .
+15:29:03:LoadPatchSetup Download : http://d2kdnm5q4g725u.cloudfront.net/NEWSYSTEM.250062/Setup.txt
+15:29:03:SetNFSPatchExtension[.250062] OK
+15:29:03:LoadPatchSetup[0, 1] OK
+15:29:03:Setting Download Patch : http://d2kdnm5q4g725u.cloudfront.net/NEWSYSTEM.250062/FileListPC.txt.250062
+15:29:04:Download FileListPC.txt.250062
+15:29:04:Checking update
+15:29:04:base size 69446
+15:29:04:extension ./GameDataTranslateFileList_us.txt.250062 size 41
+15:29:04:DownloadFileList GameDataTranslateFileList_us.txt => Succeed
+15:29:04:base size 69487
+15:29:04:extension ./GameDataTranslateFileList_jp.txt.250062 size 41
+15:29:04:DownloadFileList GameDataTranslateFileList_jp.txt => Succeed
+15:29:05:base size 69528
+15:29:05:extension ./GameDataTranslateFileList_cn.txt.250062 size 41
+15:29:05:DownloadFileList GameDataTranslateFileList_cn.txt => Succeed
+15:29:05:base size 69569
+15:29:05:extension ./GameDataTranslateFileList_de.txt.250062 size 41
+15:29:05:DownloadFileList GameDataTranslateFileList_de.txt => Succeed
+15:29:05:base size 69610
+15:29:05:extension ./GameDataTranslateFileList_fr.txt.250062 size 41
+15:29:05:DownloadFileList GameDataTranslateFileList_fr.txt => Succeed
+15:29:05:base size 69651
+15:29:05:extension ./GameDataTranslateFileList_es.txt.250062 size 41
+15:29:05:DownloadFileList GameDataTranslateFileList_es.txt => Succeed
+15:29:05:base size 69692
+15:29:05:extension ./GameDataTranslateFileList_pt.txt.250062 size 41
+15:29:05:DownloadFileList GameDataTranslateFileList_pt.txt => Succeed
+15:29:06:Download nfs/e/ead571b1d3a23924be33d903.250062
+15:29:13:Download nfs/a/aaa4a9eb5c20874de9c42e1f.250062
+15:29:22:Download nfs/0/03a1cec7e4a0b5cb120a240c.250062

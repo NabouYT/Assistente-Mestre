@@ -1,0 +1,112 @@
+{
+  "_comment": "Estrutura principal com apps e sites separados.",
+  "apps_locais": {
+    "valheim": {
+      "caminho": "C:\\Users\\marco\\Desktop\\Valheim.url",
+      "executavel": "valheim.exe",
+      "sinonimos": [
+        "val",
+        "vamos iron gate",
+        "vamos valzim"
+      ]
+    },
+    "feed and grow fish": {
+      "caminho": "C:\\Users\\marco\\Desktop\\Feed and Grow Fish.url",
+      "executavel": "Feed and Grow.exe",
+      "sinonimos": [
+        "peixinho",
+        "jogo do peixinho",
+        "peixe",
+        "vamos peixeinho"
+      ]
+    },
+    "euro truck simulator 2": {
+      "caminho": "C:\\Users\\marco\\Desktop\\Euro Truck Simulator 2.url",
+      "executavel": "eurotrucks2.exe",
+      "sinonimos": [
+        "jogo do caminhão",
+        "euro truck"
+      ]
+    },
+    "minecraft": {
+      "caminho": "C:\\Users\\marco\\Desktop\\Minecraft.lnk",
+      "executavel": "Minecraft.Windows.exe",
+      "sinonimos": [
+        "mine"
+      ]
+    },
+    "roblox": {
+      "caminho": "C:\\Program Files\\WindowsApps\\ROBLOXCORPORATION.ROBLOX_2.689.885.0_x64__55nm5eh3cm0pr\\Windows10Universal.exe",
+      "executavel": "Windows10Universal.exe",
+      "sinonimos": [
+        "robros",
+        "abro ww"
+      ]
+    },
+    "planetbase": {
+      "caminho": "C:\\Users\\marco\\Desktop\\Planetbase.url",
+      "executavel": "Planetbase.exe",
+      "sinonimos": [
+        "jogo do planeta",
+        "jogo pleneta",
+        "planetinha",
+        "vamos planeta",
+        "abro wow",
+        "vamos zeto"
+      ]
+    },
+    "creativerse": {
+      "caminho": "D:\\Steam\\steamapps\\common\\Creativerse\\Creativerse.exe",
+      "executavel": "Creativerse.exe",
+      "sinonimos": []
+    },
+    "stranded deep": {
+      "caminho": "C:\\Users\\marco\\Desktop\\Stranded Deep.url",
+      "executavel": "Stranded_Deep.exe",
+      "sinonimos": [
+        "estrand deep",
+        "deep",
+        "estradeti",
+        "vamos estrandet dep"
+      ],
+      "args": [
+        "-nohotfix"
+      ]
+    },
+    "grand fantasia origin": {
+      "caminho": "C:\\Users\\marco\\Desktop\\Grand Fantasia ORIGIN.url",
+      "executavel": "GrandFantasia.exe",
+      "sinonimos": [
+        "gf",
+        "abro ww",
+        "vamos wow"
+      ],
+      "launcher_steps": [
+        {
+          "action": "wait_for_button_state_change",
+          "image_ready": "gfo_start_button_ready.png",
+          "image_gray": "gfo_start_button_gray.png",
+          "delay": 120
+        }
+      ]
+    },
+    "scum": {
+      "caminho": "C:\\Users\\marco\\Desktop\\SCUM.url",
+      "executavel": "SCUM_Launcher.exe",
+      "sinonimos": [
+        "scum",
+        "cum",
+        "skum",
+        "jogo de zumbir"
+      ]
+    }
+  },
+  "sites_conhecidos": {
+    "youtube": "https://www.youtube.com",
+    "google": "https://www.google.com",
+    "github": "https://github.com",
+    "chatgpt": "https://chat.openai.com",
+    "noticias": "https://g1.globo.com",
+    "horario onibus": "https://www.transpiedade.com.br/campo-largo/horarios-de-onibus/"
+  }
+}

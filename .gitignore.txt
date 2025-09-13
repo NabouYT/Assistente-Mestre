@@ -1,0 +1,19 @@
+# Ambiente Virtual do Python
+.venv/
+venv/
+__pycache__/
+
+# Arquivos de IDE e sistema
+.vscode/
+.idea/
+*.DS_Store
+
+# Perfil do Navegador Playwright (contém dados pessoais)
+playwright_profile/
+
+# Modelo de IA (arquivo grande demais para o GitHub)
+yolov8n.pt
+
+# Arquivos de log e status temporários
+status.json
+comando.json
